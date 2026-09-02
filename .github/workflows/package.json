@@ -1,0 +1,13 @@
+{
+  "name": "olympus-moderation-bot",
+  "version": "1.0.0",
+  "description": "24/7 Discord Security Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
